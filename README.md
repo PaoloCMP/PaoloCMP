@@ -1,16 +1,27 @@
-### Hi there 👋
+# Benvenuto/a nel profilo GitHub di Paolo Campus - alias PaoloCMP 👋
 
 <!--
-**PaoloCMP/PaoloCMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PaoloCMP/PaoloCMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+### Formazione
+- :mortar_board: Studente in Ingegneria Informatica presso UniRoma2
+- :green_book: Studente presso  HTB Academy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ambiti di interesse
+- Cybersicurezza
+- Reti
+- Database
+<p> In special modo mi interessano casi e problematiche dal lato dell'utente finale. Scrivo codice più per dovere che per piacere</p>
+
+#### Contatti
+- <a href="mailto:paolo.campus@students.uniroma2.eu">📪E-mail</a>
+- <a href="t.me/paul_field">Telegram</a>
+
+
+
+
+
+
+
+
+
