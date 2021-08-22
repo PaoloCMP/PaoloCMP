@@ -7,6 +7,15 @@
 - :mortar_board: Studente in Ingegneria Informatica presso UniRoma2
 - :green_book: Studente presso  HTB Academy
 
+    <details>
+     <summary>Moduli completati:</summary>
+
+   - <a href="https://academy.hackthebox.eu/achievement/253768/15">Introduction to Academy</a>
+   - <a href="https://academy.hackthebox.eu/achievement/253768/87">Setting up</a>
+  - <a href="https://academy.hackthebox.eu/achievement/253768/75">Introduction to Web Applications</a>
+  
+    </details>
+
 ### Ambiti di interesse
 - Cybersicurezza
 - Reti
