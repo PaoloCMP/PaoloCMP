@@ -13,6 +13,7 @@
    - <a href="https://academy.hackthebox.eu/achievement/253768/15" target="_blank" rel="noopener noreferrer">Introduction to Academy</a>
    - <a href="https://academy.hackthebox.eu/achievement/253768/87" target="_blank" rel="noopener noreferrer">Setting up</a>
   - <a href="https://academy.hackthebox.eu/achievement/253768/75" target="_blank" rel="noopener noreferrer">Introduction to Web Applications</a>
+   - <a href="https://academy.hackthebox.eu/achievement/253768/35">Web Requests</a>
   
     </details>
 
