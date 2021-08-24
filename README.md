@@ -14,6 +14,8 @@
    - <a href="https://academy.hackthebox.eu/achievement/253768/87" target="_blank" rel="noopener noreferrer">Setting up</a>
   - <a href="https://academy.hackthebox.eu/achievement/253768/75" target="_blank" rel="noopener noreferrer">Introduction to Web Applications</a>
    - <a href="https://academy.hackthebox.eu/achievement/253768/35">Web Requests</a>
+    - <a href="https://academy.hackthebox.eu/achievement/253768/81">Intro to Network Traffic Analysis</a>
+    - <a href="https://academy.hackthebox.eu/achievement/253768/33">SQL Injection Fundamentals</a>
   
     </details>
 
