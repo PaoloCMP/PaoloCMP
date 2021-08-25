@@ -16,6 +16,8 @@
    - <a href="https://academy.hackthebox.eu/achievement/253768/35">Web Requests</a>
     - <a href="https://academy.hackthebox.eu/achievement/253768/81">Intro to Network Traffic Analysis</a>
     - <a href="https://academy.hackthebox.eu/achievement/253768/33">SQL Injection Fundamentals</a>
+    - <a href="https://academy.hackthebox.eu/achievement/253768/49">Windows Fundamentals</a>
+    - <a href="https://academy.hackthebox.eu/achievement/253768/18">Linux Fundamentals</a>
   
     </details>
 
