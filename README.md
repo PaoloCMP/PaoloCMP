@@ -4,7 +4,7 @@
 **PaoloCMP/PaoloCMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ### Education
-- :mortar_board: It Engineering student at UniRoma2
+- :mortar_board: Computer Engineering student at UniRoma2
 - :green_book: Student at HTB Academy as Junior Penetration Tester
 
     <details>
