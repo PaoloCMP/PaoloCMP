@@ -21,7 +21,7 @@
     - <a href="https://academy.hackthebox.eu/achievement/253768/18" target="_blank" rel="noopener noreferrer">Linux Fundamentals</a>
     - <a href="https://academy.hackthebox.eu/achievement/253768/54" target="_blank" rel="noopener noreferrer">Attacking Web Application with ffuf</a>
     - <a href="https://academy.hackthebox.eu/achievement/253768/23" target="_blank" rel="noopener noreferrer">File Inclusion / Directory Traversal</a>
-   
+    - <a href="https://academy.hackthebox.eu/achievement/253768/24" target="_blank" rel="noopener noreferrer">File Transfers</a>
   
     </details>
 
