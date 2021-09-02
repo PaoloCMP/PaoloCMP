@@ -19,9 +19,10 @@
     - <a href="https://academy.hackthebox.eu/achievement/253768/33" target="_blank" rel="noopener noreferrer">SQL Injection Fundamentals</a>
     - <a href="https://academy.hackthebox.eu/achievement/253768/49" target="_blank" rel="noopener noreferrer">Windows Fundamentals</a>
     - <a href="https://academy.hackthebox.eu/achievement/253768/18" target="_blank" rel="noopener noreferrer">Linux Fundamentals</a>
-    - <a href="https://academy.hackthebox.eu/achievement/253768/54" target="_blank" rel="noopener noreferrer">Attacking Web Application with ffuf</a>
+    - <a href="https://academy.hackthebox.eu/achievement/253768/54" target="_blank" rel="noopener noreferrer">Attacking Web Application with FFUF</a>
     - <a href="https://academy.hackthebox.eu/achievement/253768/23" target="_blank" rel="noopener noreferrer">File Inclusion / Directory Traversal</a>
     - <a href="https://academy.hackthebox.eu/achievement/253768/24" target="_blank" rel="noopener noreferrer">File Transfers</a>
+    - <a href="https://academy.hackthebox.eu/achievement/253768/19" target="_blank" rel="noopener noreferrer"> Network Enumeration with NMAP</a>
   
     </details>
 
