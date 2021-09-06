@@ -23,6 +23,7 @@
     - <a href="https://academy.hackthebox.eu/achievement/253768/23" target="_blank" rel="noopener noreferrer">File Inclusion / Directory Traversal</a>
     - <a href="https://academy.hackthebox.eu/achievement/253768/24" target="_blank" rel="noopener noreferrer">File Transfers</a>
     - <a href="https://academy.hackthebox.eu/achievement/253768/19" target="_blank" rel="noopener noreferrer"> Network Enumeration with NMAP</a>
+    - <a href="https://academy.hackthebox.eu/achievement/253768/58"  target="_blank" rel="noopener noreferrer">SQLMap Essentials</a>
   
     </details>
 
