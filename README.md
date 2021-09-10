@@ -24,6 +24,8 @@
     - <a href="https://academy.hackthebox.eu/achievement/253768/24" target="_blank" rel="noopener noreferrer">File Transfers</a>
     - <a href="https://academy.hackthebox.eu/achievement/253768/19" target="_blank" rel="noopener noreferrer"> Network Enumeration with NMAP</a>
     - <a href="https://academy.hackthebox.eu/achievement/253768/58"  target="_blank" rel="noopener noreferrer">SQLMap Essentials</a>
+    - <a href="https://academy.hackthebox.eu/achievement/253768/109" target="_blank" rel="noopener noreferrer">Command Injections</a>
+    - <a href="https://academy.hackthebox.eu/achievement/253768/57"  target="_blank" rel="noopener noreferrer">Login Brute Forcing</a>
   
     </details>
 
