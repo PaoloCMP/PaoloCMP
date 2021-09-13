@@ -27,6 +27,7 @@
     - <a href="https://academy.hackthebox.eu/achievement/253768/109" target="_blank" rel="noopener noreferrer">Command Injections</a>
     - <a href="https://academy.hackthebox.eu/achievement/253768/57"  target="_blank" rel="noopener noreferrer">Login Brute Forcing</a>
     - <a href="https://academy.hackthebox.eu/achievement/253768/20" target="_blank" rel="noopener noreferrer">Cracking passwords with HASHCAT</a>
+    - <a href="https://academy.hackthebox.eu/achievement/253768/17" target="_blank" rel="noopener noreferrer">Hacking WordPress</a>
   
     </details>
 
