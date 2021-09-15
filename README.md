@@ -8,6 +8,13 @@
 - :green_book: Student at HTB Academy as Junior Penetration Tester
 
     <details>
+     <summary>Paths completed:</summary>
+        - <a href="https://academy.hackthebox.eu/achievement/253768/path/9" target="_blank" rel="noopener noreferrer">Basic Toolset</a>
+
+   
+  
+    </details>
+    <details>
      <summary>Modules completed:</summary>
 
    - <a href="https://academy.hackthebox.eu/achievement/253768/15" target="_blank" rel="noopener noreferrer">Introduction to Academy</a>
@@ -28,6 +35,7 @@
     - <a href="https://academy.hackthebox.eu/achievement/253768/57"  target="_blank" rel="noopener noreferrer">Login Brute Forcing</a>
     - <a href="https://academy.hackthebox.eu/achievement/253768/20" target="_blank" rel="noopener noreferrer">Cracking passwords with HASHCAT</a>
     - <a href="https://academy.hackthebox.eu/achievement/253768/17" target="_blank" rel="noopener noreferrer">Hacking WordPress</a>
+    - <a href="https://academy.hackthebox.eu/achievement/253768/110" target="_blank" rel="noopener noreferrer">Using Web Proxies</a>
   
     </details>
 
