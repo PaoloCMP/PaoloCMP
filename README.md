@@ -36,6 +36,7 @@
     - <a href="https://academy.hackthebox.eu/achievement/253768/20" target="_blank" rel="noopener noreferrer">Cracking passwords with HASHCAT</a>
     - <a href="https://academy.hackthebox.eu/achievement/253768/17" target="_blank" rel="noopener noreferrer">Hacking WordPress</a>
     - <a href="https://academy.hackthebox.eu/achievement/253768/110" target="_blank" rel="noopener noreferrer">Using Web Proxies</a>
+    - <a href="https://academy.hackthebox.eu/achievement/253768/103" target="_blank" rel="noopener noreferrer">XSS cross site scripting</a>
   
     </details>
 
