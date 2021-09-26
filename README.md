@@ -9,11 +9,13 @@
 
     <details>
      <summary>Paths completed:</summary>
-        - <a href="https://academy.hackthebox.eu/achievement/253768/path/9" target="_blank" rel="noopener noreferrer">Basic Toolset</a>
+        <ul type="square">
+            <li> <a href="https://academy.hackthebox.eu/achievement/253768/path/9" target="_blank" rel="noopener noreferrer">Basic Toolset</a></li>
+             <li> <a href="https://academy.hackthebox.com/achievement/253768/path/13" target="_blank" rel="noopener noreferrer">Cracking into HTB</a></li>
 
-   
-  
+      
     </details>
+    
     <details>
      <summary>Modules completed:</summary>
 
@@ -37,7 +39,7 @@
     - <a href="https://academy.hackthebox.eu/achievement/253768/17" target="_blank" rel="noopener noreferrer">Hacking WordPress</a>
     - <a href="https://academy.hackthebox.eu/achievement/253768/110" target="_blank" rel="noopener noreferrer">Using Web Proxies</a>
     - <a href="https://academy.hackthebox.eu/achievement/253768/103" target="_blank" rel="noopener noreferrer">XSS cross site scripting</a>
-  
+    - <a href="https://academy.hackthebox.com/achievement/253768/41" target="_blank" rel="noopener noreferrer">JavaScript DeObfuscation</a> 
     </details>
 
 ### Interested in
