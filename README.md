@@ -39,7 +39,8 @@
     - <a href="https://academy.hackthebox.eu/achievement/253768/17" target="_blank" rel="noopener noreferrer">Hacking WordPress</a>
     - <a href="https://academy.hackthebox.eu/achievement/253768/110" target="_blank" rel="noopener noreferrer">Using Web Proxies</a>
     - <a href="https://academy.hackthebox.eu/achievement/253768/103" target="_blank" rel="noopener noreferrer">XSS cross site scripting</a>
-    - <a href="https://academy.hackthebox.com/achievement/253768/41" target="_blank" rel="noopener noreferrer">JavaScript DeObfuscation</a> 
+    - <a href="https://academy.hackthebox.com/achievement/253768/41" target="_blank" rel="noopener noreferrer">JavaScript DeObfuscation</a>
+    - <a href="https://academy.hackthebox.com/achievement/253768/21"  target="_blank" rel="noopener noreferrer">Introduction to Bash Scripting</a>
     </details>
 
 ### Interested in
