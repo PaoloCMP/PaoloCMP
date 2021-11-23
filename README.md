@@ -43,6 +43,7 @@
     - <a href="https://academy.hackthebox.com/achievement/253768/21"  target="_blank" rel="noopener noreferrer">Introduction to Bash Scripting</a>
     - <a href="https://academy.hackthebox.com/achievement/253768/134" target="_blank" rel="noopener noreferrer">Web Attacks</a>
     - <a href="https://academy.hackthebox.com/achievement/253768/113" target="_blank" rel="noopener noreferrer">Attacking Commons Applications</a>
+    - <a href="https://academy.hackthebox.com/achievement/253768/115" target="_blank" rel="noopener noreferrer">Shells & Payloads</a>
     </details>
 
 ### Interested in
