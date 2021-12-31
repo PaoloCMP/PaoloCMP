@@ -44,13 +44,14 @@
     - <a href="https://academy.hackthebox.com/achievement/253768/134" target="_blank" rel="noopener noreferrer">Web Attacks</a>
     - <a href="https://academy.hackthebox.com/achievement/253768/113" target="_blank" rel="noopener noreferrer">Attacking Commons Applications</a>
     - <a href="https://academy.hackthebox.com/achievement/253768/115" target="_blank" rel="noopener noreferrer">Shells & Payloads</a>
+    - <a href="https://academy.hackthebox.com/achievement/253768/112" target="_blank" rel="noopener noreferrer">Footprinting</a>
     </details>
 
 ### Interested in
 - Cybersecurity
 - Network
 - Database
- I'd like also to learn about health IT
+ 
 
 #### Contacts
 - <a href="mailto:paolo.campus@students.uniroma2.eu">📪E-mail</a>
