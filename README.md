@@ -5,7 +5,7 @@
 
 ### Education
 - :mortar_board: Computer Engineering student at UniRoma2
-- :green_book: Student at HTB Academy as Junior Penetration Tester
+- :green_book: Junior Penetration Tester student at HTB Academy
 
     <details>
      <summary>Paths completed:</summary>
