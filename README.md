@@ -55,7 +55,7 @@
 
 #### Contacts
 - <a href="mailto:paolo.campus@students.uniroma2.eu">📪E-mail</a>
-- <a href="https://t.me/paul_field">Telegram</a>
+- <a href="https://twitter.com/pavel_cmp">Twitter</a>
 
 
 
