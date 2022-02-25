@@ -45,6 +45,7 @@
     - <a href="https://academy.hackthebox.com/achievement/253768/113" target="_blank" rel="noopener noreferrer">Attacking Commons Applications</a>
     - <a href="https://academy.hackthebox.com/achievement/253768/115" target="_blank" rel="noopener noreferrer">Shells & Payloads</a>
     - <a href="https://academy.hackthebox.com/achievement/253768/112" target="_blank" rel="noopener noreferrer">Footprinting</a>
+    - <a href="https://academy.hackthebox.com/achievement/253768/74" target="_blank" rel="noopener noreferrer">Introduction to Active Directory</a>
     </details>
 
 ### Interested in
