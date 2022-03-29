@@ -1,4 +1,4 @@
-# Welcome to the GitHub profile of Paolo Campus - alias PaoloCMP 👋
+# GitHub profile of Paolo Campus, hello 👋
 
 <!--
 **PaoloCMP/PaoloCMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -46,6 +46,7 @@
     - <a href="https://academy.hackthebox.com/achievement/253768/115" target="_blank" rel="noopener noreferrer">Shells & Payloads</a>
     - <a href="https://academy.hackthebox.com/achievement/253768/112" target="_blank" rel="noopener noreferrer">Footprinting</a>
     - <a href="https://academy.hackthebox.com/achievement/253768/74" target="_blank" rel="noopener noreferrer">Introduction to Active Directory</a>
+    - <a href="https://academy.hackthebox.com/achievement/253768/147" target="_blank" rel="noopener noreferrer">Password Attacks</a>
     </details>
 
 ### Interested in
