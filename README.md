@@ -55,6 +55,10 @@
 - Database
  
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)  
+    
+    
+    
 #### Contacts
 - <a href="mailto:paolo.campus@students.uniroma2.eu">📪E-mail</a>
 - <a href="https://twitter.com/pavel_cmp">Twitter</a>
