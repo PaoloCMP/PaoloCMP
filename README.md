@@ -47,6 +47,7 @@
     - <a href="https://academy.hackthebox.com/achievement/253768/112" target="_blank" rel="noopener noreferrer">Footprinting</a>
     - <a href="https://academy.hackthebox.com/achievement/253768/74" target="_blank" rel="noopener noreferrer">Introduction to Active Directory</a>
     - <a href="https://academy.hackthebox.com/achievement/253768/147" target="_blank" rel="noopener noreferrer">Password Attacks</a>
+    - <a href="https://academy.hackthebox.com/achievement/253768/108" target="_blank" rel="noopener noreferrer">Vulnerability Assessment</a>
     </details>
 
 ### Interested in
@@ -55,7 +56,7 @@
 - Database
  
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
     
     
     
