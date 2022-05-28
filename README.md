@@ -48,6 +48,7 @@
     - <a href="https://academy.hackthebox.com/achievement/253768/74" target="_blank" rel="noopener noreferrer">Introduction to Active Directory</a>
     - <a href="https://academy.hackthebox.com/achievement/253768/147" target="_blank" rel="noopener noreferrer">Password Attacks</a>
     - <a href="https://academy.hackthebox.com/achievement/253768/108" target="_blank" rel="noopener noreferrer">Vulnerability Assessment</a>
+    - <a href="https://academy.hackthebox.com/achievement/253768/39" target="_blank" rel="noopener noreferrer">Metasploit Framework</a>
     </details>
 
 ### Interested in
