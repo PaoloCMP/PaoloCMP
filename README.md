@@ -51,6 +51,7 @@
     - <a href="https://academy.hackthebox.com/achievement/253768/39" target="_blank" rel="noopener noreferrer">Metasploit Framework</a>
     - <a href="https://academy.hackthebox.com/achievement/253768/90"  target="_blank" rel="noopener noreferrer">Penetration Testing Process</a>
     - <a href="https://academy.hackthebox.com/achievement/253768/144" target="_blank" rel="noopener noreferrer">Information Gathering - Web Edition</a>
+    - <a href="https://academy.hackthebox.com/achievement/253768/116" target="_blank" rel="noopener noreferrer">Attacking Common Services</a>
     </details>
 
 ### Interested in
