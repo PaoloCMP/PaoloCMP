@@ -9,6 +9,7 @@
 
     <details>
      <summary>Paths completed:</summary>
+     <br>
         <ul type="square">
             <li> <a href="https://academy.hackthebox.eu/achievement/253768/path/9" target="_blank" rel="noopener noreferrer">Basic Toolset</a></li>
              <li> <a href="https://academy.hackthebox.com/achievement/253768/path/13" target="_blank" rel="noopener noreferrer">Cracking into HTB</a></li>
