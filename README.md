@@ -58,6 +58,7 @@
     - <a href="https://academy.hackthebox.com/achievement/253768/144" target="_blank" rel="noopener noreferrer">Information Gathering - Web Edition</a>
     - <a href="https://academy.hackthebox.com/achievement/253768/116" target="_blank" rel="noopener noreferrer">Attacking Common Services</a>
     - <a href="https://academy.hackthebox.com/achievement/253768/136" target="_blank" rel="noopener noreferrer">File Uploads Attacks</a>
+    - <a href="https://academy.hackthebox.com/achievement/253768/51"  target="_blank" rel="noopener noreferrer">Linux Privilege Escalations</a>
     </details>
 
 ### Interested in
