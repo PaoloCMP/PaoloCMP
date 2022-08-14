@@ -59,6 +59,7 @@
     - <a href="https://academy.hackthebox.com/achievement/253768/116" target="_blank" rel="noopener noreferrer">Attacking Common Services</a>
     - <a href="https://academy.hackthebox.com/achievement/253768/136" target="_blank" rel="noopener noreferrer">File Uploads Attacks</a>
     - <a href="https://academy.hackthebox.com/achievement/253768/51"  target="_blank" rel="noopener noreferrer">Linux Privilege Escalations</a>
+    - <a href="https://academy.hackthebox.com/achievement/253768/158" target="_blank" rel="noopener noreferrer">Pivoting, Tunneling, and Port Forwarding</a>
     </details>
 
 ### Interested in
