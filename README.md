@@ -60,6 +60,7 @@
     - <a href="https://academy.hackthebox.com/achievement/253768/136" target="_blank" rel="noopener noreferrer">File Uploads Attacks</a>
     - <a href="https://academy.hackthebox.com/achievement/253768/51"  target="_blank" rel="noopener noreferrer">Linux Privilege Escalations</a>
     - <a href="https://academy.hackthebox.com/achievement/253768/158" target="_blank" rel="noopener noreferrer">Pivoting, Tunneling, and Port Forwarding</a>
+    - <a href="https://academy.hackthebox.com/achievement/253768/163" target="_blank" rel="noopener noreferrer">Attacking Enterprise Networks</a>
     </details>
 
 ### Interested in
