@@ -13,6 +13,7 @@
         <ul type="square">
             <li> <a href="https://academy.hackthebox.eu/achievement/253768/path/9" target="_blank" rel="noopener noreferrer">Basic Toolset</a></li>
              <li> <a href="https://academy.hackthebox.com/achievement/253768/path/13" target="_blank" rel="noopener noreferrer">Cracking into HTB</a></li>
+             <li> <a href="https://academy.hackthebox.com/achievement/253768/path/15" target="_blank" rel="noopener noreferrer">Local Privilege Escalation</a></li>
 
       
     </details>
@@ -61,6 +62,7 @@
     - <a href="https://academy.hackthebox.com/achievement/253768/51"  target="_blank" rel="noopener noreferrer">Linux Privilege Escalations</a>
     - <a href="https://academy.hackthebox.com/achievement/253768/158" target="_blank" rel="noopener noreferrer">Pivoting, Tunneling, and Port Forwarding</a>
     - <a href="https://academy.hackthebox.com/achievement/253768/163" target="_blank" rel="noopener noreferrer">Attacking Enterprise Networks</a>
+    - <a href="https://academy.hackthebox.com/achievement/253768/67" target="_blank" rel="noopener noreferrer">Windows Privilege Escalation</a>
     </details>
 
 ### Interested in
