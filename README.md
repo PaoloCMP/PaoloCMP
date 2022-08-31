@@ -5,7 +5,7 @@
 
 ### Education
 - :mortar_board: Computer Engineering student at UniRoma2
-- :green_book: Junior Penetration Tester student at HTB Academy
+- Junior Penetration Tester, HTB Academy
 
     <details>
      <summary>Paths completed:</summary>
@@ -14,6 +14,7 @@
             <li> <a href="https://academy.hackthebox.eu/achievement/253768/path/9" target="_blank" rel="noopener noreferrer">Basic Toolset</a></li>
              <li> <a href="https://academy.hackthebox.com/achievement/253768/path/13" target="_blank" rel="noopener noreferrer">Cracking into HTB</a></li>
              <li> <a href="https://academy.hackthebox.com/achievement/253768/path/15" target="_blank" rel="noopener noreferrer">Local Privilege Escalation</a></li>
+             <li><a href="https://academy.hackthebox.com/achievement/253768/path/16">Junior Penetration Tester</a></li>
 
       
     </details>
@@ -63,6 +64,7 @@
     - <a href="https://academy.hackthebox.com/achievement/253768/158" target="_blank" rel="noopener noreferrer">Pivoting, Tunneling, and Port Forwarding</a>
     - <a href="https://academy.hackthebox.com/achievement/253768/163" target="_blank" rel="noopener noreferrer">Attacking Enterprise Networks</a>
     - <a href="https://academy.hackthebox.com/achievement/253768/67" target="_blank" rel="noopener noreferrer">Windows Privilege Escalation</a>
+    - <a href="https://academy.hackthebox.com/achievement/253768/143" target="_blank" rel="noopener noreferrer"> AD Enumeration & Attacks</a>
     </details>
 
 ### Interested in
