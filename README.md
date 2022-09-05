@@ -15,6 +15,7 @@
              <li> <a href="https://academy.hackthebox.com/achievement/253768/path/13" target="_blank" rel="noopener noreferrer">Cracking into HTB</a></li>
              <li> <a href="https://academy.hackthebox.com/achievement/253768/path/15" target="_blank" rel="noopener noreferrer">Local Privilege Escalation</a></li>
              <li><a href="https://academy.hackthebox.com/achievement/253768/path/16">Junior Penetration Tester</a></li>
+             <!--https://archive.ph/fJTTK-->
 
       
     </details>
