@@ -4,7 +4,7 @@
 **PaoloCMP/PaoloCMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ### Education
-- :mortar_board: Computer Engineering student at UniRoma2
+- :mortar_board: Computer Engineering graduating at UniRoma2
 - Junior Penetration Tester, HTB Academy
 
     <details>
@@ -69,14 +69,15 @@
     </details>
 
 ### Interested in
+- Health IT
 - Cybersecurity
 - Network
 - Database
-- Health IT
+
 
 Currently I'm learning the fundamentals of Azure and the cloud.
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+<!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  -->
     
     
     
