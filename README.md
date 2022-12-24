@@ -5,7 +5,7 @@
 
 ### Education
 - :mortar_board: Computer Engineering graduating at UniRoma2
-- Junior Penetration Tester, HTB Academy
+- Junior Penetration Tester, HTB Academy  <br>---> <a href="https://github.com/PaoloCMP/PaoloCMP/blob/999a846126f9ec006317adb8ef71d984f91446e4/HTB%20Academy%20Student%20Transcript.pdf"> Official student transcript</a>
 
     <details>
      <summary>Paths completed:</summary>
@@ -77,7 +77,7 @@
 
 Currently I'm learning the fundamentals of Azure and the cloud.
 
-<!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  -->
+
     
     
     
