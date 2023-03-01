@@ -4,7 +4,7 @@
 **PaoloCMP/PaoloCMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ### Education
-- :mortar_board: Computer Engineering graduating at UniRoma2
+- :mortar_board: Computer Engineer graduated at UniRoma2
 - Junior Penetration Tester, HTB Academy  <br>---> <a href="https://github.com/PaoloCMP/PaoloCMP/blob/999a846126f9ec006317adb8ef71d984f91446e4/HTB%20Academy%20Student%20Transcript.pdf"> Official student transcript</a>
 
     <details>
