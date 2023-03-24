@@ -75,15 +75,9 @@
 - Database
 
 
-Currently I'm learning the fundamentals of Azure and the cloud.
 
 
-    
-    
-    
-#### Contacts
-- <a href="mailto:paolo.campus@students.uniroma2.eu">📪E-mail</a>
-- <a href="https://twitter.com/pavel_cmp">Twitter</a>
+
 
 
 
