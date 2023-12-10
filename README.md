@@ -1,7 +1,9 @@
-# GitHub profile of Paolo Campus, hello 👋
+# Paolo Campus, cybersec engineer
 
 <!--
 **PaoloCMP/PaoloCMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+Hi, I'm Paolo, a cybersecurity engineer at Deloitte Risk Advisory. <br>My current work is mainly concerned with IT infrastructure security in both on-prem and cloud environments.
+
 
 ### Education
 - :mortar_board: Computer Engineer graduated at UniRoma2
@@ -69,10 +71,10 @@
     </details>
 
 ### Interested in
-- Health IT
 - Cybersecurity
-- Network
-- Database
+- Cloud
+- Health IT
+
 
 
 
